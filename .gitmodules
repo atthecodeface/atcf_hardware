@@ -1,0 +1,18 @@
+[submodule "grip"]
+	path = grip
+	url = ../grip
+[submodule "riscv-atcf-tests"]
+	path = riscv-atcf-tests
+	url = ../riscv-atcf-tests
+[submodule "riscv_tests_built"]
+	path = riscv_tests_built
+	url = ../riscv_tests_built
+[submodule "atcf_fpga"]
+	path = atcf_fpga
+	url = ../atcf_fpga
+[submodule "cdl_hardware"]
+	path = cdl_hardware
+	url = ../cdl_hardware
+[submodule "cdl"]
+	path = cdl
+	url = ../cdl
